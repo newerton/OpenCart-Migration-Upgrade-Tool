@@ -48,7 +48,7 @@ if( !file_exists('config.php') ) {
 <meta charset="UTF-8" />
 <title>DB Converter OpenCart 1.5.x - 2.x</title>
 <link rel="stylesheet" type="text/css" href="view/stylesheet/stylesheet.css" />
-<script type="text/javascript" src="view/javascript/jquery/jquery-1.7.1.min.js"></script>
+<script type="text/javascript" src="view/javascript/jquery/jquery-1.12.4.min.js"></script>
 
 </head>
 <body>
